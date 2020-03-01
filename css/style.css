@@ -1,0 +1,27 @@
+html, body { height:100%; }
+body {
+	background-color:#9b42f4;
+	margin:0 auto;
+	width:60%;
+	color:#fff;
+	font-family:sans-serif;
+}
+
+.wrap {
+	min-height:100%;
+	margin:0 auto;
+	width:100%;
+	text-align:center;
+	overflow:auto;
+  position:relative;
+}
+
+.media {
+   margin:0 auto;
+   position:relative;
+
+ }
+
+ h1, h2 { font-family:'Arial', serif; }
+
+ h1 { margin:5%; }
