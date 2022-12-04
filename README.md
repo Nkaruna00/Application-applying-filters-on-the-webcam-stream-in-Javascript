@@ -1,10 +1,10 @@
-# Webcam-Filter-
+# Webcam-Filter
 Prototype of a web tool applying filters to video streams from a webcam.
 
 ## Description
 
-In the controller.js file are all the control functions (initialization, resizing the canvas etc.)
-The main.js file is the entry point of the program.
+In the controller.js file are all the control functions (initialization, resizing the canvas etc.)  
+The main.js file is the entry point of the program.  
 The models.js file contains the data structures used for this project.
 
 In the views.js file the functions present in this file manage the graphic display.
@@ -27,8 +27,8 @@ The filters used are :
 
 ## Authors
 
-KARUNAKARAN Nithushan
-RANDRIANASOLO Heriniaina
+* KARUNAKARAN Nithushan
+* RANDRIANASOLO Heriniaina
 
 ## License
 
